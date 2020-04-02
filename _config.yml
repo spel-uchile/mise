@@ -187,15 +187,17 @@ team:
     img: morchard.jpg
     url: https://www.cec.uchile.cl/~morchard/
 
-  - name: Researcher Name
+  - name: Natalia Romanova
     role: Researcher
-    img: profile.jpg
+    afiliation: Universidad de Santiago de Chile
+    img: nromanova.jpg
     url:
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Cesar Azurdia
+    role: Assistant professor
+    afiliation: Universidad de Chile
+    img: cazurdia.jpg
+    url: http://ingenieria.uchile.cl/facultad/cuerpo-academico/92295/a-z?output=js&qui_id=119008
 
   - name: Researcher Name
     role: Researcher
