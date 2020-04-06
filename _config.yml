@@ -87,7 +87,7 @@ partners:
 
   - name: Universidad de Concepcion
     short: UDEC
-    logo:
+    logo: udec.png
     url: https://www.udec.cl/
 
   - name: Universidad de La Serena
