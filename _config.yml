@@ -144,6 +144,11 @@ projects:
     img: labprognosis.jpg
     url: https://www.cec.uchile.cl/~morchard/
 
+  - name: Laboratory of Mechanical Vibrations and Rotodynamics
+    area: Engineering science
+    img: lvmr.jpg
+    url: http://www.lvmr.cl/lvmr.htm
+
 team:
   - name: Ricardo Finger
     role: Associate Professor
@@ -199,10 +204,11 @@ team:
     img: cazurdia.jpg
     url: http://ingenieria.uchile.cl/facultad/cuerpo-academico/92295/a-z?output=js&qui_id=119008
 
-  - name: Researcher Name
-    role: Researcher
-    img: profile.jpg
-    url:
+  - name: Viviana Meruane
+    role: Associate professor
+    afiliation: Universidad de Chile
+    img: vmeruane.jpg
+    url: http://www.researcherid.com/rid/H-3816-2013
 
   - name: Researcher Name
     role: Researcher
