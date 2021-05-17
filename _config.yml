@@ -150,6 +150,11 @@ projects:
     area: Engineering science
     img: lvmr.jpg
     url: http://www.lvmr.cl/lvmr.htm
+  
+  - name: Center for Interdisciplinary Research in Astrophysics and Space Exploration
+    area: Space physics and space weather
+    img: ciras.jpg
+    url: http://ciras.cl/
 
 team:
   - name: Ricardo Finger
